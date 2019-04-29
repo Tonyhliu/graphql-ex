@@ -1,0 +1,27 @@
+{
+  "name": "graphql-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonyhliu/graphql-ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonyhliu/graphql-ex/issues"
+  },
+  "homepage": "https://github.com/Tonyhliu/graphql-ex#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.2.1",
+    "node-fetch": "^2.4.1",
+    "xml2js": "^0.4.19"
+  }
+}
